@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmorac
-- 👀 I’m interested in bonsai trees, baking pizza and BBQs.
+- 👀 I’m interested in dogs, bonsai trees, baking pizza and BBQs.
 - 🌱 I’m currently learning Python, Angular, JS
 - 💞️ I’m looking to collaborate on C#, JS, Python projects
 - 📫 How to reach me: https://www.twitter.com/herrbrombeere
